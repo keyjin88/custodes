@@ -107,4 +107,6 @@ vendor/
 .idea
 .vscode
 
+*.iml
+
 
